@@ -1,0 +1,9 @@
+train: /content/traindata/train_data/images/train
+val: /content/traindata/train_data/images/val
+
+# Classes
+names:
+  0: prohibitory
+  1: danger
+  2: mandatory
+  3: other
